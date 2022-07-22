@@ -1,0 +1,12 @@
+Histogram:
+It consits of count of a featutre withiin the bin of values.
+like in the bin of 10 - 20 total number of points are 20 then for that particular feature ,
+the building will be plotted where X axis = bin value, Y axis  = count.
+using the graph the bell curve can be formed which helps in identifying the Normal Distribution.
+Bell Curve is called as probability density function.
+https://www.youtube.com/watch?v=ZdgCZ0GY-HU&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=31
+
+Z- Score:
+Helps in getting exact probability of points in particular region by converting the guassian Curve into Standard normal Distribution.
+
+PDF:Probalitity density function:
